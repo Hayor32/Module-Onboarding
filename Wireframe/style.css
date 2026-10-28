@@ -101,3 +101,11 @@ Keeping things orderly and separate is the key to good, simple CSS.
     object-fit: cover;
     border-radius:  8px; }
 }
+> @@ -74,16 +79,25 @@ Setting the rules for how elements are placed in the article.
+ Now laying out just the INSIDE of the repeated card/article design.
+ Keeping things orderly and separate is the key to good, simple CSS.
+ */
+-article {
++
++
++.art1 {
